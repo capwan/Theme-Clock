@@ -5,3 +5,5 @@ Theme Clock
 
 ## Instruction
 Just open `index.html`.
+
+*[Live Demo](https://capwan.github.io/Theme-Clock/)*
